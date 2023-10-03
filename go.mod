@@ -1,4 +1,4 @@
-module github.com/wgarunap/goconf
+module github.com/SourceParts/goconf
 
 go 1.20
 
